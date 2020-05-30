@@ -1,4 +1,4 @@
-# Predicting-Shift-in-Consumer-Behavior-Target-Advertising
+# Predicting-Shift-in-Consumer-Behavior-Targeted-Advertising
 
 
 Analyzed customer trends to identify bundled services to target potential customers using Deloitte’s Digital Survey Data (2009-2011)
